@@ -2,6 +2,8 @@
 
 ---
 
+Culled from https://cryptomarketpool.com/getting-started-with-solidity/#block-ceb01da9-9848-47a1-8dcf-85f8459b0639.
+
 Below is a ERC20 token Solidity smart contract that allows you to create your own token on the Ethereum blockchain. The ERC-20 contract introduces a standard for fungible tokens, in other words, the tokens in this contract are exactly the same (in type and value) as another token in the same contract.
 
 The Ethereum Improvement Proposal (EIP) for the ERC20 token standard EIP is located here. The EIP document details a summary, methods and events needed for the contract.
