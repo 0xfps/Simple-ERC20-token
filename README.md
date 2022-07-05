@@ -15,7 +15,3 @@ ERC20 contracts can track the quantity of an item in an account on the blockchai
 ##
 
 **Deployed at:** https://rinkeby.etherscan.io/address/0x9af84a56B0b2444Fa2367C13862B652567CD0A1b.
-
----
-
-Nnaemeka.
