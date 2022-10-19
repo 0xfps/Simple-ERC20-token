@@ -2,7 +2,7 @@
 
 ---
 
-Culled from https://cryptomarketpool.com/getting-started-with-solidity/#block-ceb01da9-9848-47a1-8dcf-85f8459b0639.
+Culled from https://cryptomarketpool.com/getting-started-with-solidity/#block-ceb01da9-9848-47a1-8dcf-85f8459b0639
 
 ##
 
